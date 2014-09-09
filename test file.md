@@ -3,5 +3,6 @@
 online changes:
 * added some formatting
 * added list of edits
+
 local changes:
 * added primary heading

@@ -21,3 +21,9 @@ online changes:
 *******
 
 Visit [bbc.com](http://www.bbc.com)
+
+The most visited sites are [Google][1], [Yahoo][2], and [CNN][3]
+[1]: http://www.google.com
+[2]: http://www.yahoo.com
+[3]: http://www.cnn.com
+    
